@@ -45,9 +45,7 @@ int main() {
             p_left++;
             p_right--;
         }
-
     }
-
     if (p_left < p_right)
     {
         printf("\"%s\" is NOT palindrom.\n", str);
